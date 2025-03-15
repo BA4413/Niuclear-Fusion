@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|d:\\steam\\steamapps\\common\\rimworld\\mods\\niuclear\\source\\niuclear\\building_niuclearfusion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|solutionrelative:building_niuclearfusion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|d:\\steam\\steamapps\\common\\rimworld\\mods\\niuclear\\source\\niuclear\\compniuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|solutionrelative:compniuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|d:\\steam\\steamapps\\common\\rimworld\\mods\\niuclear\\source\\niuclear\\compproperties_niuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|solutionrelative:compproperties_niuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|d:\\steam\\steamapps\\common\\rimworld\\mods\\niuclear\\source\\niuclear\\niuclearsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5556FED4-8628-4377-A7D4-AFCB826BA350}|Niuclear.csproj|solutionrelative:niuclearsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NiuclearSetting.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\NiuclearSetting.cs",
+              "RelativeDocumentMoniker": "NiuclearSetting.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\NiuclearSetting.cs",
+              "RelativeToolTip": "NiuclearSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:10:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Building_NiuclearFusion.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\Building_NiuclearFusion.cs",
+              "RelativeDocumentMoniker": "Building_NiuclearFusion.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\Building_NiuclearFusion.cs",
+              "RelativeToolTip": "Building_NiuclearFusion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:37:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompNiuclear.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\CompNiuclear.cs",
+              "RelativeDocumentMoniker": "CompNiuclear.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\CompNiuclear.cs",
+              "RelativeToolTip": "CompNiuclear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:54:02.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompProperties_Niuclear.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\CompProperties_Niuclear.cs",
+              "RelativeDocumentMoniker": "CompProperties_Niuclear.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Niuclear\\Source\\Niuclear\\CompProperties_Niuclear.cs",
+              "RelativeToolTip": "CompProperties_Niuclear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:03:16.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
