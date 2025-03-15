@@ -52,9 +52,10 @@ namespace Niuclear
         //判断标准
         public override AcceptanceReport CanAcceptPawn(Pawn pawn)
         {
+            var adultStage = pawn.RaceProps.lifeStageAges.FirstOrDefault(ls => ls.def.defName == "Adult");
             if (pawn.def.race == cowContent.PropsNiuclear.pawnKind.RaceProps &&
                 pawn.gender == Gender.Female &&
-                pawn.ageTracker.AgeBiologicalYears >= cowContent.PropsNiuclear.pawnKind.RaceProps.lifeStageAges[1].minAge &&
+                pawn.ageTracker.AgeBiologicalYearsFloat >= pawn.def.race.lifeStageAges[1].minAge &&
                 pawn.Faction == Faction.OfPlayer) 
             {
                 return true;
